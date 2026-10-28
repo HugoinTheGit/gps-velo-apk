@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.19<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.20<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,17 +32,15 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.19<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.20<!-- /version -->
 
 <!-- notes:start -->
-- Vélos : plusieurs vélos, chacun avec son nom, son type, ses couleurs, son accueil, son objectif et ses sorties. Ton accueil actuel devient « Mon vélo ».
-- Widget Vélo : un appui passe au vélo suivant.
-- Couleurs : 6 thèmes au choix pour chaque vélo (noir, bleu, vert, orange, violet, rouge).
-- Accueil sur plusieurs pages : balaie à gauche ou à droite. En édition, ajoute une page ou tiens une tuile contre le bord pour la changer de page. Option « pages en boucle » dans les réglages.
-- Profil : statistiques de tous les vélos ou d'un seul.
-- Réglages réorganisés par sections (vélos, accueil, carte, affichage, enregistrement, données, à propos).
-- Vélo archivé ou supprimé : ses sorties sont gardées dans les statistiques.
-- Flèches retour : plus d'info-bulle à l'appui long.
+- Dispositions prédéfinies : le bouton + de l'édition propose d'ajouter un widget ou de choisir une disposition d'accueil (Classique, Départ rapide, Carte, Statistiques, Deux pages, Tableau de bord).
+- Thème clair/sombre propre à chaque vélo, réglable dans la page du vélo. La section Couleurs des réglages est retirée.
+- Page d'un vélo : elle prend en direct les couleurs et le thème choisis, noir par défaut.
+- Nouveau vélo : il démarre avec l'accueil par défaut.
+- Pages de l'accueil : la marge sur les côtés reste visible pendant le balayage, et une petite marge en bas laisse la place aux points des pages.
+- Profil : la page change de couleur selon le vélo affiché (noir pour tous les vélos).
 <!-- notes:end -->
 
 ## Installation
