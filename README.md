@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.20<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.21<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,15 +32,16 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.20<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.21<!-- /version -->
 
 <!-- notes:start -->
-- Dispositions prédéfinies : le bouton + de l'édition propose d'ajouter un widget ou de choisir une disposition d'accueil (Classique, Départ rapide, Carte, Statistiques, Deux pages, Tableau de bord).
-- Thème clair/sombre propre à chaque vélo, réglable dans la page du vélo. La section Couleurs des réglages est retirée.
-- Page d'un vélo : elle prend en direct les couleurs et le thème choisis, noir par défaut.
-- Nouveau vélo : il démarre avec l'accueil par défaut.
-- Pages de l'accueil : la marge sur les côtés reste visible pendant le balayage, et une petite marge en bas laisse la place aux points des pages.
-- Profil : la page change de couleur selon le vélo affiché (noir pour tous les vélos).
+- Thème clair/sombre des Réglages et du Profil : il se règle dans les Réglages et ne touche plus ni les couleurs ni le thème des vélos. Chaque vélo garde les siens, réglés dans sa page.
+- Réglages et Profil restent aux couleurs neutres. Dans le Profil, choisir un vélo applique ses couleurs et son thème à la page.
+- Accueil : un appui sur un widget de stats ne change plus que ce widget (période propre à chacun : Distance, Sorties et temps, Graphique).
+- Objectif du mois : réglable pour chaque vélo, aussi depuis la page du vélo.
+- Enregistrement : le bouton Terminer est noir en thème clair et blanc en thème sombre.
+- Profil sans sortie : l'encadré est à la largeur du reste de la page.
+- Réglages › Données : espace de stockage utilisé par l'app (sorties, cache, autres), hors programme lui-même.
 <!-- notes:end -->
 
 ## Installation
