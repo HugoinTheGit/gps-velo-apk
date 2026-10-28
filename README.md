@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.21<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.22<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,16 +32,16 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.21<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.22<!-- /version -->
 
 <!-- notes:start -->
-- Thème clair/sombre des Réglages et du Profil : il se règle dans les Réglages et ne touche plus ni les couleurs ni le thème des vélos. Chaque vélo garde les siens, réglés dans sa page.
-- Réglages et Profil restent aux couleurs neutres. Dans le Profil, choisir un vélo applique ses couleurs et son thème à la page.
-- Accueil : un appui sur un widget de stats ne change plus que ce widget (période propre à chacun : Distance, Sorties et temps, Graphique).
-- Objectif du mois : réglable pour chaque vélo, aussi depuis la page du vélo.
-- Enregistrement : le bouton Terminer est noir en thème clair et blanc en thème sombre.
-- Profil sans sortie : l'encadré est à la largeur du reste de la page.
-- Réglages › Données : espace de stockage utilisé par l'app (sorties, cache, autres), hors programme lui-même.
+- Écrans d'enregistrement personnalisables, comme l'accueil : une grille de widgets sur une ou plusieurs pages qu'on balaie, propre à chaque vélo.
+- Widgets : carte, courbe d'altitude, courbe de vitesse, et chaque chiffre (vitesse, moyenne, vitesse max, moyenne en mouvement, distance, durée, temps en mouvement, heure, altitude, dénivelé + et −, pente, précision GPS, batterie).
+- Appui long pour modifier : déplacer, redimensionner, retirer ; le bouton + ajoute un widget ou applique une disposition prédéfinie (Carte et chiffres, Chiffres, Grande carte, Altitude, Vitesse, Essentiel). Aussi depuis Réglages › Vélos › (vélo) › Écrans d'enregistrement.
+- Pendant la sortie, le bouton de gauche passe à la page suivante. Option « Pages en boucle » dans Réglages › Enregistrement.
+- Objectif du mois unique pour tous les vélos (km de tous les vélos).
+- Widgets de l'accueil : les chiffres ne sont plus tronqués (par exemple les km/h des Records), même avec une grande taille de police.
+- Tuiles Profil et Réglages : sans sous-titre.
 <!-- notes:end -->
 
 ## Installation
