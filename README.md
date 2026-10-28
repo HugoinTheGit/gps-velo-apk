@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.22<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.23<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,16 +32,21 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.22<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.23<!-- /version -->
 
 <!-- notes:start -->
-- Écrans d'enregistrement personnalisables, comme l'accueil : une grille de widgets sur une ou plusieurs pages qu'on balaie, propre à chaque vélo.
-- Widgets : carte, courbe d'altitude, courbe de vitesse, et chaque chiffre (vitesse, moyenne, vitesse max, moyenne en mouvement, distance, durée, temps en mouvement, heure, altitude, dénivelé + et −, pente, précision GPS, batterie).
-- Appui long pour modifier : déplacer, redimensionner, retirer ; le bouton + ajoute un widget ou applique une disposition prédéfinie (Carte et chiffres, Chiffres, Grande carte, Altitude, Vitesse, Essentiel). Aussi depuis Réglages › Vélos › (vélo) › Écrans d'enregistrement.
-- Pendant la sortie, le bouton de gauche passe à la page suivante. Option « Pages en boucle » dans Réglages › Enregistrement.
-- Objectif du mois unique pour tous les vélos (km de tous les vélos).
-- Widgets de l'accueil : les chiffres ne sont plus tronqués (par exemple les km/h des Records), même avec une grande taille de police.
-- Tuiles Profil et Réglages : sans sous-titre.
+- Modification des écrans : impossible pendant une sortie ; et pendant la modification, le trajet ne peut pas démarrer.
+- Choisir une disposition te demande à chaque fois de remplacer la page affichée ou de l'ajouter à la suite : les autres pages ne sont plus supprimées. « Réinitialiser » vide entièrement la page (sur l'accueil, Profil, Réglages et Démarrer restent).
+- Balayages repris : on peut revenir en arrière depuis « Nouvelle page », et le comportement est le même partout.
+- Un widget peut passer d'une page à l'autre : le tenir contre le bord de l'écran.
+- Appui long sur une zone vide : active la modification sur toute la surface, à l'accueil comme à l'enregistrement.
+- Retour du téléphone pendant la modification : « Quitter sans enregistrer » ou « Enregistrer et quitter ».
+- Flèche de retour retirée en mode modification.
+- Textes des widgets mieux ajustés à leur taille.
+- Nouvelle page « Ajouter un widget », par familles, avec aperçu ; le mot « Adaptatif » disparaît.
+- Nouvelles dispositions sur plusieurs pages (accueil et enregistrement).
+- Carte : plus de scintillement en glissant entre les pages.
+- Nouveaux widgets d'enregistrement : lampe torche et klaxon (son au choix : sonnette, klaxon, klaxon grave, sifflet).
 <!-- notes:end -->
 
 ## Installation
