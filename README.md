@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.23<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.24<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,21 +32,17 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.23<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.24<!-- /version -->
 
 <!-- notes:start -->
-- Modification des écrans : impossible pendant une sortie ; et pendant la modification, le trajet ne peut pas démarrer.
-- Choisir une disposition te demande à chaque fois de remplacer la page affichée ou de l'ajouter à la suite : les autres pages ne sont plus supprimées. « Réinitialiser » vide entièrement la page (sur l'accueil, Profil, Réglages et Démarrer restent).
-- Balayages repris : on peut revenir en arrière depuis « Nouvelle page », et le comportement est le même partout.
-- Un widget peut passer d'une page à l'autre : le tenir contre le bord de l'écran.
-- Appui long sur une zone vide : active la modification sur toute la surface, à l'accueil comme à l'enregistrement.
-- Retour du téléphone pendant la modification : « Quitter sans enregistrer » ou « Enregistrer et quitter ».
-- Flèche de retour retirée en mode modification.
-- Textes des widgets mieux ajustés à leur taille.
-- Nouvelle page « Ajouter un widget », par familles, avec aperçu ; le mot « Adaptatif » disparaît.
-- Nouvelles dispositions sur plusieurs pages (accueil et enregistrement).
-- Carte : plus de scintillement en glissant entre les pages.
-- Nouveaux widgets d'enregistrement : lampe torche et klaxon (son au choix : sonnette, klaxon, klaxon grave, sifflet).
+- Modification des écrans : un widget se prend en le tenant 1 seconde ; avant, glisser le doigt (même sur un widget) change simplement de page.
+- La croix des widgets laisse place à une zone poubelle sous la grille : glisse un widget dessus pour le retirer (Profil, Réglages et Démarrer restent).
+- Nouveaux presets : « Enregistrer cette page en preset » (menu +), puis « Choisir une disposition › Mes presets » pour la réutiliser sur n'importe quel vélo (accueil et enregistrement ; renommer et supprimer possibles).
+- Nouvelle vue d'ensemble des pages (bouton dans la barre d'édition) : toutes les pages en petit, pour les ouvrir, les réorganiser (appui long puis glisser), les supprimer ou en ajouter.
+- Enregistrement : deux flèches de page de part et d'autre de la pause (la pause prend toute la largeur avec une seule page ; flèches grisées aux extrémités hors boucle).
+- Lampe torche : mode statique ou clignotant, réglable depuis le bouton de réglage du widget.
+- Klaxon : le son sort toujours du haut-parleur du téléphone, même avec un casque ou une enceinte Bluetooth.
+- La carte de l'enregistrement n'est plus déplaçable à la main, quel que soit le nombre de pages.
 <!-- notes:end -->
 
 ## Installation
