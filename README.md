@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.26<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.27<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,17 +32,14 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.26<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.27<!-- /version -->
 
 <!-- notes:start -->
-- Écran d'enregistrement : la grille passe à 4 colonnes × 8 rangées. Tes pages existantes sont converties automatiquement ; les dispositions prédéfinies sont refaites pour cette grille.
-- Chaque widget a un bouton réglage « Apparence » : automatique, sombre, clair ou couleur (fond en couleur d'accent). La lampe torche, le klaxon, la carte et Démarrer gardent leurs réglages propres.
-- Plus aucun rouge : suppression, arrêt et alertes sont en noir, blanc et gris. Seul « Enregistrement » prend la couleur d'accent.
-- Une seule couleur d'accent par thème, la même en clair et en sombre.
-- Poubelle : plus de texte « Retirer », juste l'icône. Sur l'accueil, la suppression d'un widget fonctionne de nouveau (plus de place sous la grille).
-- Appui long sur un widget en mode modification : le même remplissage que l'appui long qui lance l'édition.
-- Vocabulaire unifié : « disposition » (plus de « preset » ni de « modèle ») et « supprimer » (plus de « retirer » ni « effacer »).
-- Page Dispositions : deux onglets, « Mes dispositions » et « Prédéfinies ».
+- Récap d'une sortie complet et mieux ordonné : parcours, temps (départ, arrivée, arrêts), vitesse (moyenne, moyenne en mouvement, max, courbe de vitesse), altitude (dénivelé + et −, altitude min et max, pente max, profil d'altitude). On peut glisser le doigt sur les courbes pour lire une valeur.
+- Étiquette de sortie : Pro, Loisir ou Autre. Elle est choisie automatiquement : si une sortie déjà étiquetée a un départ et une arrivée à moins de 300 m (dans un sens ou dans l'autre), elle reprend son étiquette, sinon « Autre ». On la change d'un appui sur l'étiquette.
+- Profil : un appui sur une barre du graphique affiche les kilomètres et les sorties de la période (touchables) ; série de jours consécutifs (actuelle et record) ; jauge de l'objectif du mois.
+- Modification des écrans : pour régler un widget (apparence, mode de la lampe, son du klaxon), reste appuyé 2 s dessus ; un anneau se remplit. Le petit bouton de réglage disparaît.
+- Page Dispositions : l'onglet « Prédéfinies » passe avant « Mes dispositions ».
 <!-- notes:end -->
 
 ## Installation
