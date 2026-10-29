@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.25<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.26<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,17 +32,17 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.25<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.26<!-- /version -->
 
 <!-- notes:start -->
-- Modification des écrans : le widget se prend après 0,5 s d'appui, comme l'appui long qui lance l'édition (retour vibration et widget soulevé).
-- À l'accueil, la grille ne se rétrécit plus en passant en mode modification.
-- Poubelle façon Android : une ombre avec une icône de corbeille apparaît en bas ; on y glisse un widget (sous la grille) pour le retirer. Même geste pour supprimer une page dans la vue des pages (plus de bouton).
-- Deux widgets de même taille s'échangent quand on glisse l'un sur l'autre (à moitié ou plus) : le widget visé est surligné avec une icône d'échange.
-- Écran d'enregistrement : nouvelle grille de 3 colonnes × 8 rangées. Tes pages existantes sont converties automatiquement ; les dispositions prédéfinies sont refaites pour cette grille.
-- Lampe torche et klaxon : plusieurs par page, mais un seul de chaque mode (statique, clignotant) ou de chaque son par page ; le bouton de réglage change le mode ou le son.
-- Klaxon : le son passe par le haut-parleur du téléphone même quand une musique joue dans les écouteurs (le volume suit désormais celui des sons du système).
-- Pente : calculée par régression sur environ 250 m d'altitude filtrée et lissée ; elle affiche 0 % sur le plat au lieu de sauts à ±5 %.
+- Écran d'enregistrement : la grille passe à 4 colonnes × 8 rangées. Tes pages existantes sont converties automatiquement ; les dispositions prédéfinies sont refaites pour cette grille.
+- Chaque widget a un bouton réglage « Apparence » : automatique, sombre, clair ou couleur (fond en couleur d'accent). La lampe torche, le klaxon, la carte et Démarrer gardent leurs réglages propres.
+- Plus aucun rouge : suppression, arrêt et alertes sont en noir, blanc et gris. Seul « Enregistrement » prend la couleur d'accent.
+- Une seule couleur d'accent par thème, la même en clair et en sombre.
+- Poubelle : plus de texte « Retirer », juste l'icône. Sur l'accueil, la suppression d'un widget fonctionne de nouveau (plus de place sous la grille).
+- Appui long sur un widget en mode modification : le même remplissage que l'appui long qui lance l'édition.
+- Vocabulaire unifié : « disposition » (plus de « preset » ni de « modèle ») et « supprimer » (plus de « retirer » ni « effacer »).
+- Page Dispositions : deux onglets, « Mes dispositions » et « Prédéfinies ».
 <!-- notes:end -->
 
 ## Installation
