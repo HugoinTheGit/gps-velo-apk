@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.27<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.29<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,14 +32,12 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.27<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.29<!-- /version -->
 
 <!-- notes:start -->
-- Récap d'une sortie complet et mieux ordonné : parcours, temps (départ, arrivée, arrêts), vitesse (moyenne, moyenne en mouvement, max, courbe de vitesse), altitude (dénivelé + et −, altitude min et max, pente max, profil d'altitude). On peut glisser le doigt sur les courbes pour lire une valeur.
-- Étiquette de sortie : Pro, Loisir ou Autre. Elle est choisie automatiquement : si une sortie déjà étiquetée a un départ et une arrivée à moins de 300 m (dans un sens ou dans l'autre), elle reprend son étiquette, sinon « Autre ». On la change d'un appui sur l'étiquette.
-- Profil : un appui sur une barre du graphique affiche les kilomètres et les sorties de la période (touchables) ; série de jours consécutifs (actuelle et record) ; jauge de l'objectif du mois.
-- Modification des écrans : pour régler un widget (apparence, mode de la lampe, son du klaxon), reste appuyé 2 s dessus ; un anneau se remplit. Le petit bouton de réglage disparaît.
-- Page Dispositions : l'onglet « Prédéfinies » passe avant « Mes dispositions ».
+- Nouveau widget « Musique » (écran d'enregistrement) : pochette, titre, artiste et boutons précédent / lecture-pause / suivant, pour n'importe quelle appli de musique. Android demande une fois l'autorisation « Accès aux notifications » (touche le widget pour l'ouvrir).
+- Apparence des widgets : par défaut tous sont en automatique (neutre, comme le thème). Seul Démarrer reste en couleur par défaut, et se règle lui aussi (automatique, sombre, clair, couleur) par un appui de 2 s en mode modification.
+- L'apparence d'un widget est propre à chaque page : le même widget peut être sombre sur une page et en couleur sur une autre. Elle est gardée dans les dispositions enregistrées. Les choix faits avec la version précédente sont à refaire.
 <!-- notes:end -->
 
 ## Installation
