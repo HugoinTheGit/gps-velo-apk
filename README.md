@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.29<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.30<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,12 +32,14 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.29<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.30<!-- /version -->
 
 <!-- notes:start -->
-- Nouveau widget « Musique » (écran d'enregistrement) : pochette, titre, artiste et boutons précédent / lecture-pause / suivant, pour n'importe quelle appli de musique. Android demande une fois l'autorisation « Accès aux notifications » (touche le widget pour l'ouvrir).
-- Apparence des widgets : par défaut tous sont en automatique (neutre, comme le thème). Seul Démarrer reste en couleur par défaut, et se règle lui aussi (automatique, sombre, clair, couleur) par un appui de 2 s en mode modification.
-- L'apparence d'un widget est propre à chaque page : le même widget peut être sombre sur une page et en couleur sur une autre. Elle est gardée dans les dispositions enregistrées. Les choix faits avec la version précédente sont à refaire.
+- Widget Musique, petits formats : la pochette remplit tout le widget, avec les boutons posés dessus sur un voile sombre pour rester lisibles.
+- Widget Musique, grands formats : pochette toujours carrée, titre et artiste juste dessous, et boutons à la taille du widget (plus gros sur un 4×8 que sur un 1×1).
+- Un widget tenu pour être déplacé n'est plus rogné par le cadre de la grille : son ombre reste entière jusqu'au bord.
+- Les bandes de changement de page sur les bords ont le même rendu que la poubelle (ombre noire, pastille blanche), et couvrent toute la hauteur de l'écran.
+- Redimensionnement : les zones à attraper sur les bords d'un widget sont plus larges.
 <!-- notes:end -->
 
 ## Installation
