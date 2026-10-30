@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.30<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.31<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -32,14 +32,17 @@
 - **Export GPX** de chaque sortie, ou de toutes, dans le dossier Téléchargements.
 - **Mises à jour intégrées** : l'app propose elle-même chaque nouvelle version.
 
-## Nouveautés de la version <!-- version -->0.1.30<!-- /version -->
+## Nouveautés de la version <!-- version -->0.1.31<!-- /version -->
 
 <!-- notes:start -->
-- Widget Musique, petits formats : la pochette remplit tout le widget, avec les boutons posés dessus sur un voile sombre pour rester lisibles.
-- Widget Musique, grands formats : pochette toujours carrée, titre et artiste juste dessous, et boutons à la taille du widget (plus gros sur un 4×8 que sur un 1×1).
-- Un widget tenu pour être déplacé n'est plus rogné par le cadre de la grille : son ombre reste entière jusqu'au bord.
-- Les bandes de changement de page sur les bords ont le même rendu que la poubelle (ombre noire, pastille blanche), et couvrent toute la hauteur de l'écran.
-- Redimensionnement : les zones à attraper sur les bords d'un widget sont plus larges.
+- Nouveau widget « Compteur » pour l'accueil (dans Ajouter un widget) : un second bouton Démarrer qui ouvre un compteur de vitesse, distance et durée, actif dès l'ouverture, sans rien enregistrer. Quand tu quittes la page, les chiffres sont gardés 1 minute (tu peux revenir sans rien perdre), puis tout est remis à zéro. Les widgets du compteur ne se déplacent pas mais leur apparence se règle par un appui long. Pas disponible pendant une sortie enregistrée.
+- Widget Musique refait : petits formats sans texte (pochette plein widget avec un gros bouton lecture, ou pochette carrée et bouton lecture sur les bandes), grands formats avec titre et artiste et des boutons beaucoup plus gros, à l'échelle du widget.
+- Fin de trajet : « Enregistrer » ou « Supprimer » (avec confirmation) à la place de « Fermer ». Si tu quittes sans choisir, la sortie est enregistrée quand même.
+- Le bouton Reprendre clignote doucement sur l'accueil quand une sortie est en cours.
+- Graphique de vitesse : plus de pic faux au départ (GPS pas encore stable), la courbe ne dépasse jamais ta vitesse max réelle.
+- Profil d'altitude : la pente locale en % s'affiche à côté des mètres quand tu glisses le doigt.
+- Mes dispositions : les aperçus de pages reprennent la vraie couleur de chaque widget.
+- Sonnette et klaxon : sortie forcée sur le haut-parleur du téléphone, même avec des écouteurs (si le problème persiste sur ton téléphone, dis-le moi).
 <!-- notes:end -->
 
 ## Installation
