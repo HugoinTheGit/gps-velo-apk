@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.34<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.35<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 - **Enregistrement GPS précis** : vitesse, distance, durée, temps en mouvement, moyenne, vitesse max et dénivelé, avec un filtrage du bruit GPS.
 - **Altitude réelle** au-dessus du niveau de la mer, corrigée par le modèle de géoïde EGM96.
-- **Accueil en tuiles personnalisable** : appui long pour déplacer et redimensionner les tuiles, et ajouter des widgets (distance, graphique, records, objectif du mois, dernière sortie, heure, compteur).
+- **Accueil en tuiles personnalisable** : appui long pour déplacer et redimensionner les tuiles, et ajouter des widgets (distance, graphique, records, objectif du mois, dernière sortie, heure, météo, compteur).
 - **Widget musique** : pochette et commandes de la musique en cours (autorisation « accès aux notifications »).
 - **Carte vélo CyclOSM** avec recherche de lieu, en thème clair ou sombre.
 - **Historique et statistiques** par semaine, mois, année ou au total, avec les records.
@@ -72,7 +72,7 @@ Les versions suivantes s'installent depuis l'app : une pop-up te propose chaque 
 ## Données et confidentialité
 
 - Tes sorties restent sur ton téléphone. Il n'y a ni compte, ni serveur, ni statistiques d'usage.
-- L'app accède à Internet uniquement pour afficher la carte (OpenStreetMap / CyclOSM), rechercher un lieu (Photon) et vérifier les mises à jour (GitHub).
+- L'app accède à Internet uniquement pour afficher la carte (OpenStreetMap / CyclOSM), rechercher un lieu (Photon), vérifier les mises à jour (GitHub) et, si tu ajoutes le widget Météo, récupérer la météo de la ville que tu as choisie (Open-Meteo). Ta position n'est jamais envoyée pour la météo.
 
 ## Crédits
 
