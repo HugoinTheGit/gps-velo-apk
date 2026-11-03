@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="images/icon.png" width="112" alt="Icône de Compteur Vélo">
+<img src="images/icon.png" width="112" alt="Icône de BIKE TOOL">
 
-# Compteur Vélo
+# BIKE TOOL
 
 **L'app vélo ultime : un compteur GPS que tu configures comme tu veux, pour tous les types de cyclistes.**
 
@@ -14,11 +14,11 @@
 [![Téléchargements](https://img.shields.io/github/downloads/HugoinTheGit/gps-velo-apk/total?label=t%C3%A9l%C3%A9chargements&style=flat-square&color=565A64)](https://github.com/HugoinTheGit/gps-velo-apk/releases)
 ![Android](https://img.shields.io/badge/Android-APK-565A64?style=flat-square&logo=android&logoColor=white)
 
-<a href="https://github.com/HugoinTheGit/gps-velo-apk/releases/latest/download/compteur-velo.apk">
+<a href="https://github.com/HugoinTheGit/gps-velo-apk/releases/latest/download/bike-tool.apk">
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l'APK%20Android-0E0F12?style=for-the-badge&logo=android&logoColor=white" height="52" alt="Télécharger l'APK Android">
 </a>
 
-<sub>Version <!-- version -->0.1.44<!-- /version --> · gratuit · sans compte · sans publicité</sub>
+<sub>Version <!-- version -->0.1.46<!-- /version --> · gratuit · sans compte · sans publicité</sub>
 
 </div>
 
@@ -41,7 +41,7 @@
 ## Une app qui s'adapte à toi
 
 Route, VTT, gravel, ville, randonnée, long voyage : chaque cycliste a ses chiffres
-préférés. Compteur Vélo se façonne à ta mesure.
+préférés. BIKE TOOL se façonne à ta mesure.
 
 - **Modulaire** : l'accueil et l'écran d'enregistrement sont des grilles de widgets.
   Tu choisis ce qui s'affiche (vitesse, distance, pente, altitude, carte, courbes,
@@ -65,7 +65,7 @@ téléphone, la version et ce que tu faisais. Les mises à jour arrivent directe
 
 1. Sur ton téléphone Android, touche **Télécharger l'APK** ci-dessus.
 2. Ouvre le fichier téléchargé. Si Android le demande, autorise l'installation depuis ton navigateur ou ton gestionnaire de fichiers.
-3. Lance **Compteur Vélo** et autorise la localisation pour enregistrer tes sorties.
+3. Lance **BIKE TOOL** et autorise la localisation pour enregistrer tes sorties.
 
 Les versions suivantes s'installent depuis l'app : une pop-up te propose chaque nouvelle version.
 
